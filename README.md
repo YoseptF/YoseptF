@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm Joseph Flores</h1>
 
-<!--
-**YoseptF/YoseptF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img align="center" src="https://i.imgur.com/Zvn8FeB.gif"></img>
+</p>
+<h3 align="center">Web developer from Mexico <img src="https://i.imgur.com/anQtQcF.png" width="15px"></img></h3>
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center">
+  <summary>Show more</summary>
+  
+  <img src="https://i.imgur.com/ba5YwOc.png"></img>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YoseptF&show_icons=true&hide_border=true"></img>
+</details>
